@@ -9,8 +9,8 @@ import { saveAs } from "file-saver";
 
 const saveFile = () => {
   saveAs(
-    "https://drive.google.com/file/d/1kPwZ8Ydx-QphDafMhxUzwDdcnW9QhoLY/view?usp=drive_link",
-    "resume.pdf"
+    "https://drive.google.com/file/d/1uCwUk-P4LWWDHI-zcDoMQICS32Qb4s-J/view?usp=drive_link",
+    "Resume.pdf"
   );
 };
 

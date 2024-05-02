@@ -6,20 +6,21 @@ import { motion, useInView } from "framer-motion";
 const projectsData = [
   {
     id: 1,
-    title: "React Pizza App",
+    title: "Real Estate with Admin Panel",
     description:
-      "Pizza App built with React, redux/toolkit, react-router-dom and Tailwind",
+      "Real estate website where users can view properties. Admin can add and delete properties through the admin panel. This website was developed with  React.js, Express.js, MongoDB, Sass, Multer, react-router-dom, Material UI.",
     image: "/images/projects/1.png",
-    gitUrl: "https://github.com/AfrozKhan23/React-Pizza-App",
-    previewUrl: "https://pizza-app1-react.netlify.app/",
+    gitUrl: "https://github.com/AfrozKhan23/Real-State_MernStack",
+    previewUrl: "https://real-state-mern-stack.vercel.app/",
   },
   {
     id: 2,
-    title: "React Keeper App",
-    description: "Keeper website built with React and Material UI",
+    title: "Mern Stack TO-DO",
+    description:
+      "Simple TO-DO website where user can create, update and delete to-do items. This website was developed with React.js, Express.js, MongoDB, Tailwind CSS.",
     image: "/images/projects/2.png",
-    gitUrl: "https://github.com/AfrozKhan23/Keeper-App",
-    previewUrl: " https://keeper-app-7e580.web.app/",
+    gitUrl: "https://github.com/AfrozKhan23/TODO",
+    previewUrl: "https://todo-pi-eight-42.vercel.app/",
   },
   {
     id: 3,

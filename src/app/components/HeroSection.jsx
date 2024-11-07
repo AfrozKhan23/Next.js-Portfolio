@@ -9,7 +9,7 @@ import { saveAs } from "file-saver";
 
 const saveFile = () => {
   saveAs(
-    "https://res.cloudinary.com/dk1a0misf/image/upload/v1730993638/PDF/Resume_qy8fhr.pdf",
+    "https://brown-bobbette-14.tiiny.site/",
     "Resume.pdf"
   );
 };

@@ -9,7 +9,7 @@ import { saveAs } from "file-saver";
 
 const saveFile = () => {
   saveAs(
-    "https://drive.google.com/file/d/1-ImWKiQCLQ25ry9fArGkoPtk5YSIjgsu/view",
+    "https://drive.google.com/file/d/1rBehWKEDMV-sHJZvB-NAxca5KXjXIxKD/view?usp=sharing",
     "Resume.pdf"
   );
 };

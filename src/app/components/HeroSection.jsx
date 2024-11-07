@@ -9,7 +9,7 @@ import { saveAs } from "file-saver";
 
 const saveFile = () => {
   saveAs(
-    "https://brown-bobbette-14.tiiny.site/",
+    "https://drive.google.com/uc?export=download&id=1rBehWKEDMV-sHJZvB-NAxca5KXjXIxKD", 
     "Resume.pdf"
   );
 };

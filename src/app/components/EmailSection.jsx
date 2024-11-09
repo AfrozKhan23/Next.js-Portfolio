@@ -15,7 +15,7 @@ const EmailSection = () => {
     e.preventDefault();
 
     emailjs
-      .sendForm("service_7doi24o", "template_vbk8bhq", form.current, {
+      .sendForm("service_6f2xs9s", "template_vbk8bhq", form.current, {
         publicKey: "Lr1pULJZuYxjrJ39u",
       })
       .then(
